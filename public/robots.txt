@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bryandesign.co.ke/sitemap.xml
+Sitemap: https://bryanbrit.vercel.app/sitemap.xml
