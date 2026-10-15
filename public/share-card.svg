@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="night" x1="60" y1="30" x2="1120" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10251a"/>
+      <stop offset="1" stop-color="#07110c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(420 230 -220 400 912 344)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8dff8a" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#8dff8a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0v36" stroke="#9aaf9a" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+  <path fill="url(#night)" d="M0 0h1200v630H0z"/>
+  <path fill="url(#glow)" d="M0 0h1200v630H0z"/>
+  <path fill="url(#grid)" d="M0 0h1200v630H0z"/>
+  <rect x="78" y="78" width="42" height="42" stroke="#8dff8a" stroke-width="2"/>
+  <text x="99" y="106" fill="#8dff8a" font-family="monospace" font-size="18" font-weight="700" text-anchor="middle">b.</text>
+  <text x="140" y="105" fill="#c1d0c1" font-family="monospace" font-size="16" letter-spacing="2">BRYAN / DEV</text>
+  <circle cx="88" cy="205" r="5" fill="#8dff8a"/>
+  <text x="110" y="212" fill="#c1d0c1" font-family="monospace" font-size="16" letter-spacing="3">SOFTWARE ENGINEERING STUDENT · NAKURU, KENYA</text>
+  <text x="80" y="340" fill="#f0f3ec" font-family="Arial, sans-serif" font-size="78" font-weight="600" letter-spacing="-5">Building software</text>
+  <text x="80" y="432" fill="#f0f3ec" font-family="Arial, sans-serif" font-size="78" font-weight="600" letter-spacing="-5">for <tspan fill="#8dff8a">real life.</tspan></text>
+  <text x="84" y="500" fill="#a9b8aa" font-family="monospace" font-size="19">Practical software for African problems.</text>
+  <path d="M920 0 1200 0v194L989 406 778 195 920 0Z" fill="#8dff8a" fill-opacity=".06" stroke="#8dff8a" stroke-opacity=".25"/>
+  <path d="M976 630h224V405L1088 293 976 405v225Z" fill="#ffc76d" fill-opacity=".04" stroke="#ffc76d" stroke-opacity=".2"/>
+  <path d="M0 620h300" stroke="#8dff8a" stroke-width="4"/>
+</svg>
